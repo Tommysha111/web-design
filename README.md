@@ -1,9 +1,9 @@
 # Sierra Leone Football Agency Website
 
 ##DIT1102F
-Siddie Sheriff 5636
-Admire Sankoh 5585
-Musa Diggay 5596
+- **Siddie Sheriff 5636**
+- **Admire Sankoh 5585**
+- **Musa Diggay 5596**
 
 **Module: Web Design**
 <img width="1366" height="2714" alt="ABOUT" src="https://github.com/user-attachments/assets/074ca83d-2164-4439-85a4-bb3451c11e7e" />

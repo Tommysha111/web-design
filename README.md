@@ -1,7 +1,7 @@
 - **Siddie Brima Sheriff**
 - **Admire Sankoh**
 - **Musa Diggay**
-**class: DIT1102F**
+##class: DIT1102F
 **Module: Web Design**
 <img width="1366" height="2714" alt="ABOUT" src="https://github.com/user-attachments/assets/074ca83d-2164-4439-85a4-bb3451c11e7e" />
 <img width="1366" height="1580" alt="CONTACT" src="https://github.com/user-attachments/assets/11b06c34-ef4d-4504-bf42-bfde07e335e7" />
